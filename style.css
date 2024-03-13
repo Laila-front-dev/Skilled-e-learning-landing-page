@@ -482,14 +482,14 @@ a {
 }
 
 @media (min-width: 992px) {
-  /* .hero {
+  .hero {
     height: 100vh;
-  } */
+  }
   .hero-image {
     top: -27%;
     position: relative;
     z-index: -1;
-    left: -6%;
+    left: 0%;
   }
 
   /* .hero-image img {
