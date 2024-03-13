@@ -492,7 +492,7 @@ a {
 
 @media (min-width: 992px) {
   .hero {
-    height: 85vh;
+    height: 83vh;
   }
   .hero-image {
     top: -27%;
@@ -505,6 +505,12 @@ a {
     max-width: 160%;
   } */
 }
+
+/* @media (min-width: 1200px) {
+  .hero {
+    height: 100vh;
+  }
+} */
 
 /* CARD */
 @media (max-width: 700px) {
