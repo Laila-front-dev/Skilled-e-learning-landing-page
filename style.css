@@ -483,7 +483,7 @@ a {
 
 @media (min-width: 992px) {
   .hero {
-    height: 115vh;
+    height: 70vh;
   }
   .hero-image {
     top: -27%;
